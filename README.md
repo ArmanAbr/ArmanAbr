@@ -8,6 +8,7 @@
   <img src="https://www.hackthebox.com/badge/image/1934320" alt="HackTheBox">
 </a>
 
+[![Blog](https://img.shields.io/badge/Blog-armanabr.github.io-2ea44f?style=flat-square&logo=github)](https://armanabr.github.io/)
 <br><br>
 
 <a href="mailto:armanabrahamyan8080@gmail.com">
@@ -82,13 +83,18 @@ Built internal business tools and worked with databases:
 - **[CTF-Cheatsheets](https://github.com/ArmanAbr/CTF-Cheatsheets)** - Collection of offensive security techniques, commands, and one-liners for CTFs.
 - **[CTF-Writeups](https://github.com/ArmanAbr/CTF-Writeups)** - Detailed attack chain documentation for HackTheBox, TryHackMe, and lab machines.
 
+# Blog
+
+I document offensive security techniques, CTF walkthroughs, and lab notes at  
+**[armanabr.github.io](https://armanabr.github.io/)**
+
 ---
 ## Current Focus
 
 - Rooting retired **HackTheBox** Windows & Linux machines
 - Preparing for **OSCC-SEC** → **OSCP**
 - Building an **Active Directory home lab**
-- Documenting techniques in **Obsidian**
+- Documenting techniques in **Obsidian** and publishing write-ups on **[my blog](https://armanabr.github.io/)**
 
 ---
 
