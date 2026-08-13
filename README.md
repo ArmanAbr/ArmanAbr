@@ -65,9 +65,7 @@ Built internal business tools and worked with databases:
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux">&nbsp;&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" title="Windows">&nbsp;&nbsp;
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" title="SQL">
-
 <br><br>
-
 <img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/wireshark.svg" alt="Wireshark" title="Wireshark">&nbsp;&nbsp;
 <img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/burpsuite.svg" alt="Burp Suite" title="Burp Suite">&nbsp;&nbsp;
 <img height="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/metasploit.svg" alt="Metasploit" title="Metasploit">&nbsp;&nbsp;
