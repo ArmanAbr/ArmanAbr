@@ -79,7 +79,6 @@ Built internal business tools and worked with databases:
 - **[AD-Enum-Toolkit](https://github.com/ArmanAbr/AD-Enum-Toolkit)** - PowerShell/Python scripts for Active Directory enumeration and attack path mapping.
 - **[Pentest-Automation](https://github.com/ArmanAbr/Pentest-Automation)** - Collection of Bash/Python scripts to automate scan parsing and reporting.
 - **[CTF-Cheatsheets](https://github.com/ArmanAbr/CTF-Cheatsheets)** - Collection of offensive security techniques, commands, and one-liners for CTFs.
-- **[CTF-Writeups](https://github.com/ArmanAbr/CTF-Writeups)** - Detailed attack chain documentation for HackTheBox, TryHackMe, and lab machines.
 
 # Blog
 
