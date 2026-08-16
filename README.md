@@ -76,6 +76,9 @@ Built internal business tools and worked with databases:
 ---
 
 # Featured Projects
+- **[AD-Path-Finder](https://github.com/ArmanAbr/AD-Path-Finder)** - A "mini-BloodHound" Active Directory attack-path finder
+- **[SSTI-Exploiter](https://github.com/ArmanAbr/SSTI-Exploiter)** - Server-Side Template Injection detection & exploitation toolkit
+- **[Sentinel](https://github.com/ArmanAbr/Sentinel)** - Autonomous Privilege-Escalation Agent
 - **[AD-Enum-Toolkit](https://github.com/ArmanAbr/AD-Enum-Toolkit)** - PowerShell/Python scripts for Active Directory enumeration and attack path mapping.
 - **[Pentest-Automation](https://github.com/ArmanAbr/Pentest-Automation)** - Collection of Bash/Python scripts to automate scan parsing and reporting.
 - **[CTF-Cheatsheets](https://github.com/ArmanAbr/CTF-Cheatsheets)** - Collection of offensive security techniques, commands, and one-liners for CTFs.
