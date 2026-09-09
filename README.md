@@ -2,7 +2,7 @@
 
 # Arman Abrahamyan
 
-**Offensive security student · Yerevan, Armenia**
+**Offensive Security Student · Yerevan, Armenia**
 
 **2nd of 208** - Students National Cyber Challenge 2026 (prequalification) · 10/10 flags · 3 first bloods
 
