@@ -4,7 +4,7 @@
 
 **Offensive security student · Yerevan, Armenia**
 
-**2nd of 208** — Students National Cyber Challenge 2026 (prequalification) · 10/10 flags · 3 first bloods
+**2nd of 208** - Students National Cyber Challenge 2026 (prequalification) · 10/10 flags · 3 first bloods
 
 [![Blog](https://img.shields.io/badge/Blog-armanabr.github.io-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://armanabr.github.io/)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1934320)
@@ -22,7 +22,7 @@
 
 ## About
 
-16-year-old offensive security student from Yerevan, Armenia. Two internships behind me — one in offensive security at Hexens, one in software engineering — plus 100+ machines and challenges on HackTheBox and a public notebook of writeups at [armanabr.github.io](https://armanabr.github.io/).
+16-year-old offensive security student from Yerevan, Armenia. Two internships behind me - one in offensive security at Hexens, one in software engineering - plus 100+ machines and challenges on HackTheBox and a public notebook of writeups at [armanabr.github.io](https://armanabr.github.io/).
 
 I break things on purpose, then write down exactly how, so the next person doesn't have to guess.
 
@@ -32,32 +32,32 @@ Focused on Active Directory attack paths, web exploitation and privilege escalat
 
 ## Competitions
 
-**2nd of 208 — Students National Cyber Challenge 2026 (prequalification)**
+**2nd of 208 - Students National Cyber Challenge 2026 (prequalification)**
 *Hosted by ISAA on Hack The Box · Jeopardy format, individual · 10 scenarios across 7 categories · single 13-hour session*
 
 10/10 flags, 6575 points. The top three all cleared every scenario on equal points, so placement came down to time. 3 first bloods.
 
 Categories: Web, Reversing, Pwn, Forensics, AI/ML, Crypto, OSINT.
 
-Run under a strict human-only policy — no AI assistants, copilots or automated agents permitted, with solves revocable on violation.
+Run under a strict human-only policy - no AI assistants, copilots or automated agents permitted, with solves revocable on violation.
 
 ---
 
 ## Experience
 
-### Offensive Security Intern — Hexens
+### Offensive Security Intern - Hexens
 *Jul 2024 – Aug 2025 · 14 months · Yerevan, Armenia*
 
 A structured offensive security program, taken end to end:
 
-- **Web application security** — SQL injection, XSS, LFI/RFI, CSRF and IDOR exploited by hand in Burp Suite; full PortSwigger Web Security Academy path.
-- **Active Directory** — LDAP enumeration, BloodHound analysis, and Windows privilege escalation via token impersonation and ACL abuse.
-- **Infrastructure** — enumeration and privilege escalation across both Linux and Windows hosts.
-- **Network security** — traffic analysis in Wireshark and tcpdump; enumeration and attack simulation with Nmap and Metasploit.
-- **Scripting** — Python, Bash and PowerShell tooling to automate enumeration, parse scan output, and cut the repetitive work out of a test.
-- **Practice** — 100+ HackTheBox and TryHackMe machines rooted, each documented as a full attack chain.
+- **Web application security** - SQL injection, XSS, LFI/RFI, CSRF and IDOR exploited by hand in Burp Suite; full PortSwigger Web Security Academy path.
+- **Active Directory** - LDAP enumeration, BloodHound analysis, and Windows privilege escalation via token impersonation and ACL abuse.
+- **Infrastructure** - enumeration and privilege escalation across both Linux and Windows hosts.
+- **Network security** - traffic analysis in Wireshark and tcpdump; enumeration and attack simulation with Nmap and Metasploit.
+- **Scripting** - Python, Bash and PowerShell tooling to automate enumeration, parse scan output, and cut the repetitive work out of a test.
+- **Practice** - 100+ HackTheBox and TryHackMe machines rooted, each documented as a full attack chain.
 
-### Software Engineering Intern — DST (Database and Statistics Technology)
+### Software Engineering Intern - DST (Database and Statistics Technology)
 *Jun 2023 – May 2024 · Yerevan, Armenia (remote)*
 
 - Built internal business tools in **VB.NET / .NET Framework**.
@@ -72,14 +72,14 @@ Knowing how applications get built is half of knowing how they break.
 
 | Project | What it does |
 |---|---|
-| **[AD-Path-Finder](https://github.com/ArmanAbr/AD-Path-Finder)** | A "mini-BloodHound" — maps Active Directory attack paths from collected domain data. Python. |
+| **[AD-Path-Finder](https://github.com/ArmanAbr/AD-Path-Finder)** | A "mini-BloodHound" - maps Active Directory attack paths from collected domain data. Python. |
 | **[SSTI-Exploiter](https://github.com/ArmanAbr/SSTI-Exploiter)** | Server-side template injection detection and exploitation toolkit. Python. |
 | **[Sentinel](https://github.com/ArmanAbr/Sentinel)** | Autonomous privilege-escalation agent. Python. |
 | **[AD-Enum-Toolkit](https://github.com/ArmanAbr/AD-Enum-Toolkit)** | PowerShell and Python scripts for Active Directory enumeration and attack-path mapping. |
 | **[Pentest-Automation](https://github.com/ArmanAbr/Pentest-Automation)** | Bash and Python scripts automating scan parsing, subdomain and directory enumeration, and reporting. |
 | **[CTF-Cheatsheets](https://github.com/ArmanAbr/CTF-Cheatsheets)** | Offensive security techniques, commands and one-liners, kept in the shape I use them. |
 
-### [armanabr.github.io](https://armanabr.github.io/) — writeups
+### [armanabr.github.io](https://armanabr.github.io/) - writeups
 
 My public notebook: 12 HackTheBox writeups, 5 cheatsheets and 4 posts across 81 tags. Full attack chains on retired and active Linux and Windows boxes, HTB Sherlock DFIR scenarios, and the enumeration and privilege-escalation cheatsheets I actually use.
 
@@ -87,17 +87,17 @@ My public notebook: 12 HackTheBox writeups, 5 cheatsheets and 4 posts across 81 
 
 ## Toolkit
 
-**Languages** — Python · Bash · PowerShell · SQL · VB.NET
+**Languages** - Python · Bash · PowerShell · SQL · VB.NET
 
-**Offensive** — Burp Suite · BloodHound · Nmap · Metasploit · Wireshark · CrackMapExec · Evil-WinRM · smbclient
+**Offensive** - Burp Suite · BloodHound · Nmap · Metasploit · Wireshark · CrackMapExec · Evil-WinRM · smbclient
 
-**Platforms** — Linux · Windows · Active Directory · Kali
+**Platforms** - Linux · Windows · Active Directory · Kali
 
 ---
 
 ## Certifications
 
-- **Ethical Hacker** — Cisco Networking Academy, Sep 2026
+- **Ethical Hacker** - Cisco Networking Academy, Sep 2026
 
 ---
 
