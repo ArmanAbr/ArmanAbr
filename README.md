@@ -102,8 +102,7 @@ I document offensive security techniques, CTF walkthroughs, and lab notes at
 
 | Year | Milestone |
 |------|-----------|
-| 2026 | Rooting HTB Machines |
-| 2027 | OSCC-SEC & OSCP |
+| 2026 | CPTS, OSCP, CDSA |
 | 2028 | Cyber Army entrance exam |
 
 ---
