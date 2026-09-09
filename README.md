@@ -81,7 +81,7 @@ Knowing how applications get built is half of knowing how they break.
 
 ### [armanabr.github.io](https://armanabr.github.io/) - writeups
 
-My public notebook: 12 HackTheBox writeups, 5 cheatsheets and 4 posts across 81 tags. Full attack chains on retired and active Linux and Windows boxes, HTB Sherlock DFIR scenarios, and the enumeration and privilege-escalation cheatsheets I actually use.
+My public notebook: Full attack chains on retired and active Linux and Windows boxes, HTB Sherlock DFIR scenarios, and the enumeration and privilege-escalation cheatsheets I actually use.
 
 ---
 
@@ -92,12 +92,6 @@ My public notebook: 12 HackTheBox writeups, 5 cheatsheets and 4 posts across 81 
 **Offensive** - Burp Suite · BloodHound · Nmap · Metasploit · Wireshark · CrackMapExec · Evil-WinRM · smbclient
 
 **Platforms** - Linux · Windows · Active Directory · Kali
-
----
-
-## Certifications
-
-- **Ethical Hacker** - Cisco Networking Academy, Sep 2026
 
 ---
 
