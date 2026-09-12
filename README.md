@@ -97,7 +97,7 @@ My public notebook: Full attack chains on retired and active Linux and Windows b
 
 ## Currently
 
-- Rooting retired HackTheBox Windows and Linux machines
+- Rooting HackTheBox Windows and Linux machines
 - Building an Active Directory home lab
 - Working toward CPTS, then OSCP
 - Writing it all up at [armanabr.github.io](https://armanabr.github.io/)
