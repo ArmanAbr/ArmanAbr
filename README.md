@@ -5,6 +5,8 @@
 **Offensive Security Student · Yerevan, Armenia**
 
 **2nd of 208** - Students National Cyber Challenge 2026 (prequalification) · 10/10 flags · 3 first bloods
+**ECSC 2026**
+
 
 [![Blog](https://img.shields.io/badge/Blog-armanabr.github.io-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://armanabr.github.io/)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1934320)
