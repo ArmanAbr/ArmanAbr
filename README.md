@@ -6,7 +6,7 @@
 
 **2nd of 209** - Students National Cyber Challenge 2026 (prequalification) · 10/10 flags · 3 first bloods
 
-**Team Armenia** - ECSC 2026 · Bochum, Oct 12-16
+**Team Armenia** - ECSC 2026 · Bochum, Oct 12-16 · 3rd place in the ECSC 2026 Demo CTF
 
 
 [![Blog](https://img.shields.io/badge/Blog-armanabr.github.io-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://armanabr.github.io/)
@@ -43,6 +43,11 @@ Focused on Active Directory attack paths, web exploitation and privilege escalat
 Categories: Web, Reversing, Pwn, Forensics, AI/ML, Crypto, OSINT.
 
 Run under a strict human-only policy - no AI assistants, copilots or automated agents permitted, with solves revocable on violation.
+
+**3rd place - ECSC 2026 Demo CTF** (with Team Armenia)
+*Jeopardy, team event · challenges from CSCG 2025 · Sep 2026*
+
+Played with Team Armenia ahead of ECSC 2026. My walkthroughs of the challenges I solved: [armanabr.github.io/ctf/ecsc-2026-demo](https://armanabr.github.io/ctf/ecsc-2026-demo/).
 
 **Upcoming**
 
