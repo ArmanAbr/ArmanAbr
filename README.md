@@ -4,9 +4,9 @@
 
 **Offensive Security Student · Yerevan, Armenia**
 
-**2nd of 208** - Students National Cyber Challenge 2026 (prequalification) · 10/10 flags · 3 first bloods
+**2nd of 209** - Students National Cyber Challenge 2026 (prequalification) · 10/10 flags · 3 first bloods
 
-**ECSC 2026**
+**Team Armenia** - ECSC 2026 · Bochum, Oct 12-16
 
 
 [![Blog](https://img.shields.io/badge/Blog-armanabr.github.io-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://armanabr.github.io/)
@@ -25,7 +25,7 @@
 
 ## About
 
-16-year-old offensive security student from Yerevan, Armenia. Two internships behind me - one in offensive security at Hexens, one in software engineering - plus 100+ machines and challenges on HackTheBox and a public notebook of writeups at [armanabr.github.io](https://armanabr.github.io/).
+16-year-old offensive security student from Yerevan, Armenia. Two internships behind me - one in offensive security at Hexens, one in software engineering - plus 30+ machines and 110+ challenges on HackTheBox (Hacker rank) and a public notebook of writeups at [armanabr.github.io](https://armanabr.github.io/).
 
 I break things on purpose, then write down exactly how, so the next person doesn't have to guess.
 
@@ -35,7 +35,7 @@ Focused on Active Directory attack paths, web exploitation and privilege escalat
 
 ## Competitions
 
-**2nd of 208 - Students National Cyber Challenge 2026 (prequalification)**
+**2nd of 209 - Students National Cyber Challenge 2026 (prequalification)**
 *Hosted by ISAA on Hack The Box · Jeopardy format, individual · 10 scenarios across 7 categories · single 13-hour session*
 
 10/10 flags, 6575 points. The top three all cleared every scenario on equal points, so placement came down to time. 3 first bloods.
@@ -43,6 +43,11 @@ Focused on Active Directory attack paths, web exploitation and privilege escalat
 Categories: Web, Reversing, Pwn, Forensics, AI/ML, Crypto, OSINT.
 
 Run under a strict human-only policy - no AI assistants, copilots or automated agents permitted, with solves revocable on violation.
+
+**Upcoming**
+
+- **ECSC 2026** (European Cybersecurity Challenge) - Bochum, Germany, Oct 12-16 · representing Armenia with Team Armenia
+- **Students National Cyber Challenge 2026 - Final** - Oct 24 · team event
 
 ---
 
@@ -58,7 +63,7 @@ A structured offensive security program, taken end to end:
 - **Infrastructure** - enumeration and privilege escalation across both Linux and Windows hosts.
 - **Network security** - traffic analysis in Wireshark and tcpdump; enumeration and attack simulation with Nmap and Metasploit.
 - **Scripting** - Python, Bash and PowerShell tooling to automate enumeration, parse scan output, and cut the repetitive work out of a test.
-- **Practice** - 100+ HackTheBox and TryHackMe machines rooted, each documented as a full attack chain.
+- **Practice** - HackTheBox and TryHackMe machines rooted and documented as full attack chains.
 
 ### Software Engineering Intern - DST (Database and Statistics Technology)
 *Jun 2023 – May 2024 · Yerevan, Armenia (remote)*
@@ -102,5 +107,5 @@ My public notebook: Full attack chains on retired and active Linux and Windows b
 
 - Rooting HackTheBox Windows and Linux machines
 - Building an Active Directory home lab
-- Working toward CPTS, then OSCP
+- Working toward CDSA, then CPTS
 - Writing it all up at [armanabr.github.io](https://armanabr.github.io/)
