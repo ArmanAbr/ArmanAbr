@@ -6,7 +6,7 @@
 
 **2nd of 209** - Students National Cyber Challenge 2026 (prequalification) · 10/10 flags · 3 first bloods
 
-**Team Armenia** - ECSC 2026 · Bochum, Oct 12-16 · 3rd place in the online ECSC 2026 Demo CTF
+**Team Armenia** - ECSC 2026 · Bochum, Oct 12-16
 
 
 [![Blog](https://img.shields.io/badge/Blog-armanabr.github.io-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://armanabr.github.io/)
@@ -25,7 +25,7 @@
 
 ## About
 
-16-year-old offensive security student from Yerevan, Armenia. Two internships behind me - one in offensive security at Hexens, one in software engineering - plus 30+ machines and 110+ challenges on HackTheBox (Hacker rank) and a public notebook of writeups at [armanabr.github.io](https://armanabr.github.io/).
+16-year-old offensive security student from Yerevan, Armenia. Two internships behind me - one in offensive security at Hexens, one in software engineering - plus 30+ machines and 120+ challenges on HackTheBox (Hacker rank) and a public notebook of writeups at [armanabr.github.io](https://armanabr.github.io/).
 
 I break things on purpose, then write down exactly how, so the next person doesn't have to guess.
 
@@ -44,15 +44,10 @@ Categories: Web, Reversing, Pwn, Forensics, AI/ML, Crypto, OSINT.
 
 Run under a strict human-only policy - no AI assistants, copilots or automated agents permitted, with solves revocable on violation.
 
-**3rd place - ECSC 2026 Demo CTF** (with Team Armenia)
-*Online jeopardy, team event · challenges from CSCG 2025 · Sep 2026*
-
-Played with Team Armenia ahead of ECSC 2026. My walkthroughs of the challenges I solved: [armanabr.github.io/ctf/ecsc-2026-demo](https://armanabr.github.io/ctf/ecsc-2026-demo/).
-
 **Upcoming**
 
 - **ECSC 2026** (European Cybersecurity Challenge) - Bochum, Germany, Oct 12-16 · representing Armenia with Team Armenia
-- **Students National Cyber Challenge 2026 - Final** - Oct 24 · team event
+- **Students National Cyber Challenge 2026 - Final** - Nov 14 · team event
 
 ---
 
