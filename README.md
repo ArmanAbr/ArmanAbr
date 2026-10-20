@@ -107,5 +107,5 @@ My public notebook: Full attack chains on retired and active Linux and Windows b
 
 - Rooting HackTheBox Windows and Linux machines
 - Building an Active Directory home lab
-- Working toward CDSA, then CPTS
+- Working toward CPTS, then CDSA
 - Writing it all up at [armanabr.github.io](https://armanabr.github.io/)
