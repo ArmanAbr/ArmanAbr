@@ -44,9 +44,10 @@ Categories: Web, Reversing, Pwn, Forensics, AI/ML, Crypto, OSINT.
 
 Run under a strict human-only policy - no AI assistants, copilots or automated agents permitted, with solves revocable on violation.
 
+**ECSC 2026** (European Cybersecurity Challenge) - Bochum, Germany, Oct 12-16 · representing Armenia with Team Armenia
+
 **Upcoming**
 
-- **ECSC 2026** (European Cybersecurity Challenge) - Bochum, Germany, Oct 12-16 · representing Armenia with Team Armenia
 - **Students National Cyber Challenge 2026 - Final** - Nov 14 · team event
 
 ---
