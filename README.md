@@ -35,7 +35,7 @@ Focused on Active Directory attack paths, web exploitation and privilege escalat
 
 ## Competitions
 
-**2nd of 209 - Students National Cyber Challenge 2026 (prequalification)**
+- **2nd of 209 - Students National Cyber Challenge 2026 (prequalification)**
 *Hosted by ISAA on Hack The Box · Jeopardy format, individual · 10 scenarios across 7 categories · single 13-hour session*
 
 10/10 flags, 6575 points. The top three all cleared every scenario on equal points, so placement came down to time. 3 first bloods.
@@ -44,7 +44,7 @@ Categories: Web, Reversing, Pwn, Forensics, AI/ML, Crypto, OSINT.
 
 Run under a strict human-only policy - no AI assistants, copilots or automated agents permitted, with solves revocable on violation.
 
-**ECSC 2026** (European Cybersecurity Challenge) - Bochum, Germany, Oct 12-16 · representing Armenia with Team Armenia
+- **ECSC 2026** (European Cybersecurity Challenge) - Bochum, Germany, Oct 12-16 · representing Armenia with Team Armenia
 
 **Upcoming**
 
