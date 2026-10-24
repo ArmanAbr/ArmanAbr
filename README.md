@@ -29,7 +29,7 @@
 
 I break things on purpose, then write down exactly how, so the next person doesn't have to guess.
 
-Focused on Active Directory attack paths, web exploitation and privilege escalation. Looking for offensive security internships or part-time work, and for a CTF team to play with.
+Focused on Active Directory attack paths, web exploitation and privilege escalation. Looking for offensive security internships or part-time work.
 
 ---
 
@@ -44,7 +44,7 @@ Categories: Web, Reversing, Pwn, Forensics, AI/ML, Crypto, OSINT.
 
 Run under a strict human-only policy - no AI assistants, copilots or automated agents permitted, with solves revocable on violation.
 
-- **ECSC 2026** (European Cybersecurity Challenge) - Bochum, Germany, Oct 12-16 · representing Armenia with Team Armenia
+- **ECSC 2026** (European Cybersecurity Challenge) - Bochum, Germany, Oct 12-16 · represented Armenia with Team Armenia
 
 **Upcoming**
 
@@ -55,7 +55,7 @@ Run under a strict human-only policy - no AI assistants, copilots or automated a
 ## Experience
 
 ### Offensive Security Intern - Hexens
-*Jul 2024 – Aug 2025 · 14 months · Yerevan, Armenia*
+*Jul 2024 - Aug 2025 · 14 months · Yerevan, Armenia*
 
 A structured offensive security program, taken end to end:
 
@@ -67,7 +67,7 @@ A structured offensive security program, taken end to end:
 - **Practice** - HackTheBox and TryHackMe machines rooted and documented as full attack chains.
 
 ### Software Engineering Intern - DST (Database and Statistics Technology)
-*Jun 2023 – May 2024 · Yerevan, Armenia (remote)*
+*Jun 2023 - May 2024 · Yerevan, Armenia (remote)*
 
 - Built internal business tools in **VB.NET / .NET Framework**.
 - Designed relational schemas and wrote reporting and analytics queries against **MySQL**.
@@ -90,7 +90,7 @@ Knowing how applications get built is half of knowing how they break.
 
 ### [armanabr.github.io](https://armanabr.github.io/) - writeups
 
-My public notebook: Full attack chains on retired and active Linux and Windows boxes, HTB Sherlock DFIR scenarios, and the enumeration and privilege-escalation cheatsheets I actually use.
+My public notebook: full attack chains on retired Linux and Windows boxes, HTB Sherlock DFIR scenarios, and the enumeration and privilege-escalation cheatsheets I actually use.
 
 ---
 
@@ -108,5 +108,5 @@ My public notebook: Full attack chains on retired and active Linux and Windows b
 
 - Rooting HackTheBox Windows and Linux machines
 - Building an Active Directory home lab
-- Working toward CPTS, then CDSA
+- Working toward HTB CPTS
 - Writing it all up at [armanabr.github.io](https://armanabr.github.io/)
