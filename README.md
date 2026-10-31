@@ -67,7 +67,7 @@ A structured offensive security program, taken end to end:
 - **Practice** - HackTheBox and TryHackMe machines rooted and documented as full attack chains.
 
 ### Software Engineering Intern - DST (Database and Statistics Technology)
-*Jun 2023 - May 2024 · Yerevan, Armenia (remote)*
+*Jun 2022 - May 2023 · Yerevan, Armenia (remote)*
 
 - Built internal business tools in **VB.NET / .NET Framework**.
 - Designed relational schemas and wrote reporting and analytics queries against **MySQL**.
