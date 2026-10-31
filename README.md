@@ -55,7 +55,7 @@ Run under a strict human-only policy - no AI assistants, copilots or automated a
 ## Experience
 
 ### Offensive Security Intern - Hexens
-*Jul 2024 - Aug 2025 · 14 months · Yerevan, Armenia*
+*Jul 2024 - Aug 2025 · 14 months · Yerevan, Armenia (on-site)*
 
 A structured offensive security program, taken end to end:
 
