@@ -25,7 +25,7 @@
 
 ## About
 
-16-year-old offensive security student from Yerevan, Armenia. Two internships behind me - one in offensive security at Hexens, one in software engineering - plus 30+ machines and 120+ challenges on HackTheBox (Hacker rank) and a public notebook of writeups at [armanabr.github.io](https://armanabr.github.io/).
+16-year-old offensive security student from Yerevan, Armenia. Two internships behind me - one in offensive security at Hexens, one in software engineering - plus 40+ machines and 130+ challenges on HackTheBox (Pro Hacker rank, level 65+ Master) and a public notebook of writeups at [armanabr.github.io](https://armanabr.github.io/).
 
 I break things on purpose, then write down exactly how, so the next person doesn't have to guess.
 
