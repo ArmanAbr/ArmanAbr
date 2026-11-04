@@ -2,17 +2,15 @@
 
 # Arman Abrahamyan
 
-**Offensive Security Student · Yerevan, Armenia**
+**Offensive security student · Yerevan, Armenia**
 
-**2nd of 209** - Students National Cyber Challenge 2026 (prequalification) · 10/10 flags · 3 first bloods
+Active Directory attack paths · web exploitation · privilege escalation
 
-**Team Armenia** - ECSC 2026 · Bochum, Oct 12-16
-
-
-[![Blog](https://img.shields.io/badge/Blog-armanabr.github.io-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://armanabr.github.io/)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1934320)
+[![Blog](https://img.shields.io/badge/Writeups-armanabr.github.io-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://armanabr.github.io/)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1934320)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/armcyb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armabrahamyan)
+[![Resume](https://img.shields.io/badge/Resume-PDF-555555?style=for-the-badge&logo=readthedocs&logoColor=white)](https://armanabr.github.io/static/Arman_Abrahamyan_Resume.pdf)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armanabrahamyan8080@gmail.com)
 
 <a href="https://app.hackthebox.com/users/1934320">
@@ -23,82 +21,66 @@
 
 ---
 
-## About
-
-16-year-old offensive security student from Yerevan, Armenia. Two internships behind me - one in offensive security at Hexens, one in software engineering - plus 40+ machines and 130+ challenges on HackTheBox (Pro Hacker rank, level 65+ Master) and a public notebook of writeups at [armanabr.github.io](https://armanabr.github.io/).
-
 I break things on purpose, then write down exactly how, so the next person doesn't have to guess.
 
-Focused on Active Directory attack paths, web exploitation and privilege escalation. Looking for offensive security internships or part-time work.
+16-year-old offensive security student. 14 months as an offensive security intern at Hexens, a year as a software engineering intern before that, and every attack chain written up in public at [armanabr.github.io](https://armanabr.github.io/). Looking for offensive security internships or part-time work.
+
+| | |
+|---|---|
+| 🥈 **2nd of 209** | Students National Cyber Challenge 2026, prequalification - solo, 10/10 flags, 3 first bloods |
+| 🇦🇲 **Team Armenia** | European Cybersecurity Challenge (ECSC) 2026, Bochum |
+| 🟩 **Pro Hacker** | HackTheBox - 40+ machines, 130+ challenges, level 65+ (Master) |
+| 📝 **30+ writeups** | HTB machines, Sherlock DFIR scenarios and CTF challenges |
+
+---
+
+## Tools I built
+
+**[AD-Path-Finder](https://github.com/ArmanAbr/AD-Path-Finder)** · Python
+A mini-BloodHound. Turns Active Directory rights (GenericAll, WriteDacl, ForceChangePassword, DCSync) into a weighted graph and runs Dijkstra from any user to Domain Admin, fewest abuse steps first. Flags Kerberoastable, AS-REP roastable and unconstrained delegation quick wins.
+
+**[SSTI-Exploiter](https://github.com/ArmanAbr/SSTI-Exploiter)** · Python
+Tells real template evaluation apart from reflection with randomized probes, fingerprints 11 template engines and builds engine-specific RCE payloads, with a time-based fallback for blind targets. Ships with a vulnerable Flask lab.
+
+**[Sentinel](https://github.com/ArmanAbr/Sentinel)** · Python
+Privilege escalation engine. An offline GTFOBins/HackTricks rule engine ranks ready-to-run vectors, with an optional LLM layer that re-prioritises and chains them. Read-only by default.
+
+Also: [AD-Enum-Toolkit](https://github.com/ArmanAbr/AD-Enum-Toolkit) · [Pentest-Automation](https://github.com/ArmanAbr/Pentest-Automation) · [CTF-Cheatsheets](https://github.com/ArmanAbr/CTF-Cheatsheets)
+
+---
+
+## Latest writeups
+
+<!-- BLOG-POST-LIST:START -->
+- [Browse all writeups](https://armanabr.github.io/)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## Competitions
 
-- **2nd of 209 - Students National Cyber Challenge 2026 (prequalification)**
-*Hosted by ISAA on Hack The Box · Jeopardy format, individual · 10 scenarios across 7 categories · single 13-hour session*
-
-10/10 flags, 6575 points. The top three all cleared every scenario on equal points, so placement came down to time. 3 first bloods.
-
-Categories: Web, Reversing, Pwn, Forensics, AI/ML, Crypto, OSINT.
-
-Run under a strict human-only policy - no AI assistants, copilots or automated agents permitted, with solves revocable on violation.
-
-- **ECSC 2026** (European Cybersecurity Challenge) - Bochum, Germany, Oct 12-16 · represented Armenia with Team Armenia
-
-**Upcoming**
-
-- **Students National Cyber Challenge 2026 - Final** - Nov 14 · team event
+- **Students National Cyber Challenge 2026, prequalification - 2nd of 209**
+  ISAA on Hack The Box, jeopardy, individual. 10 scenarios across Web, Reversing, Pwn, Forensics, AI/ML, Crypto and OSINT in one 13-hour session, human-only (no AI assistants or automation). Cleared all 10 for 6,575 points; the top three tied on points, so placement came down to time. [Writeups](https://armanabr.github.io/)
+- **ECSC 2026** (European Cybersecurity Challenge) - Bochum, Germany, Oct 12-16. Represented Armenia with Team Armenia.
+- **Up next:** Students National Cyber Challenge 2026 final - Nov 14, team event.
 
 ---
 
 ## Experience
 
-### Offensive Security Intern - Hexens
-*Jul 2024 - Aug 2025 · 14 months · Yerevan, Armenia (on-site)*
+**Offensive Security Intern - Hexens** · Jul 2024 - Aug 2025 · Yerevan
+Web application testing by hand in Burp Suite (SQLi, XSS, LFI/RFI, CSRF, SSRF, IDOR) and the full PortSwigger Web Security Academy path; Active Directory enumeration and abuse with BloodHound, token impersonation and ACL abuse; Linux and Windows privilege escalation; Python, Bash and PowerShell tooling to automate enumeration.
 
-A structured offensive security program, taken end to end:
-
-- **Web application security** - SQL injection, XSS, LFI/RFI, CSRF and IDOR exploited by hand in Burp Suite; full PortSwigger Web Security Academy path.
-- **Active Directory** - LDAP enumeration, BloodHound analysis, and Windows privilege escalation via token impersonation and ACL abuse.
-- **Infrastructure** - enumeration and privilege escalation across both Linux and Windows hosts.
-- **Network security** - traffic analysis in Wireshark and tcpdump; enumeration and attack simulation with Nmap and Metasploit.
-- **Scripting** - Python, Bash and PowerShell tooling to automate enumeration, parse scan output, and cut the repetitive work out of a test.
-- **Practice** - HackTheBox and TryHackMe machines rooted and documented as full attack chains.
-
-### Software Engineering Intern - DST (Database and Statistics Technology)
-*Jun 2022 - May 2023 · Yerevan, Armenia (remote)*
-
-- Built internal business tools in **VB.NET / .NET Framework**.
-- Designed relational schemas and wrote reporting and analytics queries against **MySQL**.
-- Tested and debugged REST endpoints in Postman; took part in code review and sprint planning.
-
-Knowing how applications get built is half of knowing how they break.
-
----
-
-## Projects
-
-| Project | What it does |
-|---|---|
-| **[AD-Path-Finder](https://github.com/ArmanAbr/AD-Path-Finder)** | A "mini-BloodHound" - maps Active Directory attack paths from collected domain data. Python. |
-| **[SSTI-Exploiter](https://github.com/ArmanAbr/SSTI-Exploiter)** | Server-side template injection detection and exploitation toolkit. Python. |
-| **[Sentinel](https://github.com/ArmanAbr/Sentinel)** | Autonomous privilege-escalation agent. Python. |
-| **[AD-Enum-Toolkit](https://github.com/ArmanAbr/AD-Enum-Toolkit)** | PowerShell and Python scripts for Active Directory enumeration and attack-path mapping. |
-| **[Pentest-Automation](https://github.com/ArmanAbr/Pentest-Automation)** | Bash and Python scripts automating scan parsing, subdomain and directory enumeration, and reporting. |
-| **[CTF-Cheatsheets](https://github.com/ArmanAbr/CTF-Cheatsheets)** | Offensive security techniques, commands and one-liners, kept in the shape I use them. |
-
-### [armanabr.github.io](https://armanabr.github.io/) - writeups
-
-My public notebook: full attack chains on retired Linux and Windows boxes, HTB Sherlock DFIR scenarios, and the enumeration and privilege-escalation cheatsheets I actually use.
+**Software Engineering Intern - DST (Database and Statistics Technology)** · Jun 2022 - May 2023 · Remote
+Internal business tools in VB.NET / .NET Framework, MySQL schemas and reporting queries, REST endpoint testing in Postman. Knowing how applications get built is half of knowing how they break.
 
 ---
 
 ## Toolkit
 
-**Languages** - Python · Bash · PowerShell · SQL · VB.NET
+**Offensive** - Burp Suite · Nmap · BloodHound · Impacket · NetExec · Evil-WinRM · Metasploit · Hashcat · Volatility · Wireshark · ffuf
 
-**Offensive** - Burp Suite · BloodHound · Nmap · Metasploit · Wireshark · CrackMapExec · Evil-WinRM · smbclient
+**Languages** - Python · Bash · PowerShell · SQL · VB.NET · C++
 
 **Platforms** - Linux · Windows · Active Directory · Kali
 
@@ -106,7 +88,6 @@ My public notebook: full attack chains on retired Linux and Windows boxes, HTB S
 
 ## Currently
 
-- Rooting HackTheBox Windows and Linux machines
-- Building an Active Directory home lab
 - Working toward HTB CPTS
-- Writing it all up at [armanabr.github.io](https://armanabr.github.io/)
+- Building an Active Directory home lab
+- Rooting HackTheBox Windows and Linux machines and writing them up
