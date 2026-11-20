@@ -46,10 +46,6 @@ Run under a strict human-only policy - no AI assistants, copilots or automated a
 
 - **ECSC 2026** (European Cybersecurity Challenge) - Bochum, Germany, Oct 12-16 · represented Armenia with Team Armenia
 
-**Upcoming**
-
-- **Students National Cyber Challenge 2026 - Final** - Nov 14 · team event
-
 ---
 
 ## Experience
